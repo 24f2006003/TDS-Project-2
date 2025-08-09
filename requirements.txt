@@ -1,8 +1,8 @@
-   fastapi
-   uvicorn
-   google-genai
-   python-dotenv
-   python-multipart
-   playwright
-   beautifulsoup4
-   httpx
+fastapi
+uvicorn
+google-genai
+python-dotenv
+python-multipart
+playwright
+beautifulsoup4
+httpx
